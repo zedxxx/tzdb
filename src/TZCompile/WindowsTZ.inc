@@ -11,12 +11,15 @@
 			GlobalCache.AddAlias('US Mountain Standard Time', 'America/Phoenix');
 			GlobalCache.AddAlias('Mountain Standard Time (Mexico)', 'America/Mazatlan');
 			GlobalCache.AddAlias('Mountain Standard Time', 'America/Denver');
+			GlobalCache.AddAlias('British Columbia Standard Time', 'America/Vancouver');
 			GlobalCache.AddAlias('Yukon Standard Time', 'America/Whitehorse');
+			GlobalCache.AddAlias('Alberta Standard Time', 'America/Edmonton');
 			GlobalCache.AddAlias('Central America Standard Time', 'America/Guatemala');
 			GlobalCache.AddAlias('Central Standard Time', 'America/Chicago');
 			GlobalCache.AddAlias('Easter Island Standard Time', 'Pacific/Easter');
 			GlobalCache.AddAlias('Central Standard Time (Mexico)', 'America/Mexico_City');
 			GlobalCache.AddAlias('Canada Central Standard Time', 'America/Regina');
+			GlobalCache.AddAlias('Manitoba Standard Time', 'America/Winnipeg');
 			GlobalCache.AddAlias('SA Pacific Standard Time', 'America/Bogota');
 			GlobalCache.AddAlias('Eastern Standard Time (Mexico)', 'America/Cancun');
 			GlobalCache.AddAlias('Eastern Standard Time', 'America/New_York');
